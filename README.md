@@ -174,5 +174,5 @@ The dashboard gives a clear first view of S.L.K Mart's sales:
 
 ## Author
 
-**S.L.K Studio** | AI Creator | AI Video & Digital Content Specialist
-Instagram: [@s.l.k_studio](https://instagram.com/s.l.k_studio) | YouTube: [slk_studio1](https://youtube.com/@slk_studio1)
+Sholagberu Logun Khadijat
+khadijahlogun@gmail.com
