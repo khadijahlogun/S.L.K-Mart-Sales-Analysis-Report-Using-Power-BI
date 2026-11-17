@@ -16,7 +16,7 @@ Using Power BI, I analysed 2023 retail sales data for S.L.K Mart, a Nigerian mul
 
 ## Dashboard Preview
 
-![S.L.K Mart Sales Analysis Dashboard](images/SLK_Power_BI_Project.png)
+![S.L.K Mart Sales Analysis Dashboard](images/SLK Power BI Project.png)
 
 ## Introduction
 
