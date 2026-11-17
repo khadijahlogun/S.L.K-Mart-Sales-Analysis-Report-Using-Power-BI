@@ -167,7 +167,7 @@ The dashboard gives a clear first view of S.L.K Mart's sales:
 ```
 .
 ├── README.md
-├── powerbi/    # .pbix dashboard file (add your file here)
+├── powerbi/    # slk mart.pbix dashboard file
 ├── data/       # SALES_AD.xlsx raw source tables
 └── images/     # dashboard screenshot
 ```
