@@ -16,8 +16,7 @@ Using Power BI, I analysed 2023 retail sales data for S.L.K Mart, a Nigerian mul
 
 ## Dashboard Preview
 
-![S.L.K Mart Sales Analysis Dashboard](images/SLK Power BI Project.png)
-
+![S.L.K Mart Sales Analysis Dashboard](images/SLK%20Power%20BI%20Project.png)
 ## Introduction
 
 A retailer selling groceries, electronics, fashion and home goods across five regions needs to know which categories move the most stock, which regions sell the most, and where its product spend is concentrated. Without this view, stocking decisions rely on guesswork and regional managers cannot be compared fairly.
