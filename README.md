@@ -175,5 +175,8 @@ The dashboard gives a clear first view of S.L.K Mart's sales:
 ## Author
 
 Sholagberu Logun Khadijat
-Email: [Email](khadijahlogun@gmail.com)
-Linkedin: [Linkedin](https://www.linkedin.com/in/logun-khadijah-b721a0270?)
+
+Data Analyst | Excel, Power BI, SQL, & Python
+
+[Email](khadijahlogun@gmail.com)
+| [Linkedin](https://www.linkedin.com/in/logun-khadijah-b721a0270?)
