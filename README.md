@@ -178,5 +178,5 @@ Sholagberu Logun Khadijat
 
 Data Analyst | Excel, Power BI, SQL, & Python
 
-[Email](khadijahlogun@gmail.com)
+[E-mail](mailto:khadijahlogun@gmail.com)
 | [Linkedin](https://www.linkedin.com/in/logun-khadijah-b721a0270?)
